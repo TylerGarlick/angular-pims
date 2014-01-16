@@ -217,3 +217,5 @@ pip-log.txt
 #webstorm
 .idea
 scripts/vendors
+
+bower_components
